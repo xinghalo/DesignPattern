@@ -56,3 +56,7 @@ TODO
 ### 观察者模式
 
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/14-观察者模式/观察者模式.png)
+
+### 抽象工厂模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/15-抽象工厂模式/抽象工厂模式.png)
