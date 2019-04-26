@@ -60,3 +60,7 @@ TODO
 ### 抽象工厂模式
 
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/15-抽象工厂模式/抽象工厂模式.png)
+
+### 状态模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/16-状态模式/状态模式.png)
