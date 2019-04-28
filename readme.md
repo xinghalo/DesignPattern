@@ -76,3 +76,12 @@ TODO
 ### 组合模式
 
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/19-组合模式/组合模式.png)
+
+### 迭代器模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/20-迭代器模式/迭代器模式.png)
+
+### 单例模式
+
+无图
+
