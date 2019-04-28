@@ -64,3 +64,15 @@ TODO
 ### 状态模式
 
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/16-状态模式/状态模式.png)
+
+### 适配器模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/17-适配器模式/适配器模式.png)
+
+### 备忘录模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/18-备忘录模式/备忘录模式.png)
+
+### 组合模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/19-组合模式/组合模式.png)
