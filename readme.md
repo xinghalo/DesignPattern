@@ -85,3 +85,10 @@ TODO
 
 无图
 
+### 桥接模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/22-桥接模式/桥接模式.png)
+
+### 命令模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/23-命令模式/命令模式.png)
