@@ -9,6 +9,16 @@
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/02-策略模式/策略模式.png)
 
 
+spring在类的初始化时，会采用策略模式，配置加载bean的方法
+```
+public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFactory
+		implements AutowireCapableBeanFactory {
+
+	/** Strategy for creating bean instances */
+	private InstantiationStrategy instantiationStrategy = new CglibSubclassingInstantiationStrategy();
+```
+
+
 ### 单一职责原则
 
 TODO
@@ -92,3 +102,23 @@ TODO
 ### 命令模式
 
 ![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/23-命令模式/命令模式.png)
+
+### 职责链模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/24-职责链模式/职责链模式.png)
+
+### 中介者模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/25-中介者模式/中介者模式.png)
+
+### 享元模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/26-享元模式/享元模式.png)
+
+### 解释器模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/27-解释器模式/解释器模式.png)
+
+### 访问者模式
+
+![](https://raw.githubusercontent.com/xinghalo/DesignPattern/master/28-访问者模式/访问者模式.png)
